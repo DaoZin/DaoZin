@@ -1,8 +1,11 @@
 ### Hello!  I'm Shlok - aka [dEvK4n3Ki] 
 
+<img align="left" alt="me" src="https://media-exp1.licdn.com/dms/image/C5103AQFbdxseFsD9-g/profile-displayphoto-shrink_200_200/0?e=1602720000&v=beta&t=CS6jWKUSdszupHc_THKmaTTm4xo8m9Agp7S86uHeqG4" />
+
 ## I'm a Developer, Editor and Gamer!
-- I’m currently working myself [PlasmaYoddha][website]!
-- I’m currently learning everything 🤣
+- I’m currently working myself!
+- Currently working on two major projects : [PlasmaYoddha][Plasma] and [TracerIND][tracer]
+- I’m currently learning everything I possibly can
 - I’m looking to collaborate with other content creators, developers and gamers
 - 2020 Goals: Contribute more to Open Source projects
 
@@ -34,7 +37,8 @@
 
 <img align="left" alt="Kaneki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dEvK4n3Ki&show_icons=true&hide_border=true&theme=dark&count_private=true" />
 
-[website]: https://plasma.covidindiataskforce.org/
+[Plasma]: https://plasma.covidindiataskforce.org/
+[tracer]: https://tracerind.covidindiataskforce.org/
 [twitter]: https://twitter.com/Shlok_Parida
 [instagram]: https://instagram.com/k3n.kan3k1/
 [linkedin]: https://www.linkedin.com/in/shlokparida/
