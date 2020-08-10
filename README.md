@@ -10,6 +10,8 @@
 - I’m looking to collaborate with other content creators, developers and gamers
 - 2020 Goals: Contribute more to Open Source projects
 
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="Shlok Parida | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
