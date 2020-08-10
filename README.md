@@ -1,6 +1,7 @@
+
 ### Hello!  I'm Shlok - aka [dEvK4n3Ki] 
 
-<kbd><img align="left" alt="me" src="https://media-exp1.licdn.com/dms/image/C5103AQFbdxseFsD9-g/profile-displayphoto-shrink_200_200/0?e=1602720000&v=beta&t=CS6jWKUSdszupHc_THKmaTTm4xo8m9Agp7S86uHeqG4" /></kbd>
+<kbd><img align="left" alt="me" width = "50" src="https://media-exp1.licdn.com/dms/image/C5103AQFbdxseFsD9-g/profile-displayphoto-shrink_200_200/0?e=1602720000&v=beta&t=CS6jWKUSdszupHc_THKmaTTm4xo8m9Agp7S86uHeqG4" /></kbd>
 
 ## I'm a Developer, Editor and Gamer!
 - I’m currently working myself!
