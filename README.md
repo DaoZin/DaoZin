@@ -1,13 +1,14 @@
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="746e1ccc-9020-478f-9d03-d38ac982f19b" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 ### Hello!  I'm Shlok - aka [dEvK4n3Ki] 
 [<img align="left" alt="Shlok Parida | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="k3n.kan3k1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="k3n.kan3k1 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
 
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/EcnAlQcGnZq9y/giphy.gif" />
 ## I'm a Developer, Editor and Gamer!
 - I’m currently working myself!
 - Currently working on two major projects : [PlasmaYoddha][Plasma] and [TracerIND][tracer]
@@ -15,9 +16,6 @@
 - I’m looking to collaborate with other content creators, developers and gamers
 - 2020 Goals: Contribute more to Open Source projects
 - Fun Fact: I am a HUGE WEEB. for thode who dont know, thats an anime fan :P
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/EcnAlQcGnZq9y/giphy.gif" />
 
 <br />
 
@@ -43,6 +41,7 @@
 
 [Plasma]: https://plasma.covidindiataskforce.org/
 [tracer]: https://tracerind.covidindiataskforce.org/
+[Discord]: https://discord.gg/cS6QPAN
 [twitter]: https://twitter.com/Shlok_Parida
 [instagram]: https://instagram.com/k3n.kan3k1/
 [linkedin]: https://www.linkedin.com/in/shlokparida/
