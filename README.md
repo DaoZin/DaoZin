@@ -2,11 +2,9 @@
 [<img align="left" alt="Shlok Parida | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="k3n.kan3k1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="k3n.kan3k1 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
+[<img align="right" alt="GIF" src="https://media.giphy.com/media/EcnAlQcGnZq9y/giphy.gif" />]
 
 
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/EcnAlQcGnZq9y/giphy.gif" />
 ## I'm a Developer, Editor and Gamer!
 - I’m currently working myself!
 - Currently working on two major projects : [PlasmaYoddha][Plasma] and [TracerIND][tracer]
