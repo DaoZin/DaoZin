@@ -1,5 +1,3 @@
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="746e1ccc-9020-478f-9d03-d38ac982f19b" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 ### Hello!  I'm Shlok - aka [dEvK4n3Ki] 
 [<img align="left" alt="Shlok Parida | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="k3n.kan3k1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
