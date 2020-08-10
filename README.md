@@ -1,4 +1,4 @@
-### Hello!  I'm Shlok - aka [dEvK4n3Ki] _/\_
+### Hello!  I'm Shlok - aka [dEvK4n3Ki] 
 
 ## I'm a Developer, Editor and Gamer!
 => I’m currently working myself [PlasmaYoddha][website]!
