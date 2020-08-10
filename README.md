@@ -38,7 +38,7 @@
 <br />
 <br />
 
-<img align="left" alt="Kaneki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AogiriKaneki&show_icons=true&hide_border=true&theme=dark&count_private=true" />
+<img align="left" alt="Kaneki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dEvK4n3Ki&show_icons=true&hide_border=true&theme=dark&count_private=true" />
 
 [website]: https://plasma.covidindiataskforce.org/
 [twitter]: https://twitter.com/Shlok_Parida
