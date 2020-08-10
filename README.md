@@ -1,4 +1,4 @@
-<code><img align = "left" src="https://drive.google.com/file/d/1runkcflpGaLFWfR1zxXERtz7bkR7UCt_/view?usp=sharing"></code>
+<code><img align = "left" src="https://i.imgur.com/MYuP0Lp.png"></code>
 
 ### Hello!  I'm Shlok - aka [dEvK4n3Ki] 
 [<img align="left" alt="Shlok Parida | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
