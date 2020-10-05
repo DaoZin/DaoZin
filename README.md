@@ -11,8 +11,9 @@ Hi! i am
 
 
 ## I'm a Developer, Editor and Gamer!
-- I’m currently working [TracerIND][tracer] and myself!
-- Currently working on two major projects : [PlasmaYoddha][Plasma] and [TracerIND][tracer]
+- I’m currently working [CarddOye][CardOYE]!
+- Working on a major projects : [TracerIND][tracer]
+- Worked on : [PlasmaYoddha][Plasma]
 - I’m currently learning everything I possibly can
 - I’m looking to collaborate with other content creators, developers and gamers
 - 2020 Goals: Contribute more to Open Source projects
@@ -46,3 +47,4 @@ Hi! i am
 [twitter]: https://twitter.com/Shlok_Parida
 [instagram]: https://instagram.com/k3n.kan3k1/
 [linkedin]: https://www.linkedin.com/in/shlokparida/
+[CardOYE]: https://github.com/dEvK4n3Ki/CardOye
