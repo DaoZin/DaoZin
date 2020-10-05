@@ -11,7 +11,7 @@ Hi! i am
 
 
 ## I'm a Developer, Editor and Gamer!
-- I’m currently working [CarddOye][CardOYE]!
+- I’m currently working [CardOye][CardOYE]!
 - Working on a major projects : [TracerIND][tracer]
 - Worked on : [PlasmaYoddha][Plasma]
 - I’m currently learning everything I possibly can
