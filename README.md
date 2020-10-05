@@ -11,7 +11,7 @@ Hi! i am
 
 
 ## I'm a Developer, Editor and Gamer!
-- I’m currently working myself!
+- I’m currently working [TracerIND][tracer] and myself!
 - Currently working on two major projects : [PlasmaYoddha][Plasma] and [TracerIND][tracer]
 - I’m currently learning everything I possibly can
 - I’m looking to collaborate with other content creators, developers and gamers
