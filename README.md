@@ -11,9 +11,7 @@ Hi! i am
 
 
 ## I'm a Developer, Editor and Gamer!
-- I’m currently working [CardOye!][CardOYE]
-- Working on a major projects : [TracerIND][tracer]
-- Worked on : [PlasmaYoddha][Plasma]
+- I’m currently working [TracerIND][tracer]
 - I’m currently learning everything I possibly can
 - I’m looking to collaborate with other content creators, developers and gamers
 - 2020 Goals: Contribute more to Open Source projects
