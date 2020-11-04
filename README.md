@@ -10,7 +10,7 @@
 
 
 ## I'm a Developer, Pro Debugger, Editor and Gamer!
-<img align="left"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unicode.svg" />I’m currently working [TracerIND][tracer]
+<img align="left"  width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unicode.svg" />I’m currently working [TracerIND][tracer]
 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-line-icons@2.5.5/src/svgs/graph.svg" />I'm on an endless effort, trying to learn                                      everything I possibly can
 
