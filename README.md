@@ -13,8 +13,9 @@
 - I’m currently working [TracerIND][tracer]
 - I'm on an endless effort, trying to learn everything I possibly can
 - I’m looking to collaborate with other content creators, developers and gamers
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> Linux F.T.W
 - 2020 Goals: Contribute more to Open Source projects
-- Fun Fact: I am a HUGE WEEB and I absolutely LOVE Linux
+- Fun Fact: I am a HUGE WEEB
 
 <br />
 
