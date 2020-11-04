@@ -7,15 +7,15 @@
 [<img align="left" alt="k3n.kan3k1 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
 
 Hi! i am 
-<code><img align="right" alt="GIF" src="https://media.giphy.com/media/EcnAlQcGnZq9y/giphy.gif" /></code>
+<code><img align="right" alt="GIF" src="https://media.giphy.com/media/2uxxXyTRFgIJaOZJTb/giphy.gif" /></code>
 
 
-## I'm a Developer, Editor and Gamer!
+## I'm a Developer, Pro Debugger, Editor and Gamer!
 - I’m currently working [TracerIND][tracer]
-- I’m currently learning everything I possibly can
+- I'm on an endless effort, trying to learn everything I possibly can
 - I’m looking to collaborate with other content creators, developers and gamers
 - 2020 Goals: Contribute more to Open Source projects
-- Fun Fact: I am a HUGE WEEB. for thode who dont know, thats an anime fan :P
+- Fun Fact: I am a HUGE WEEB and I absolutely LOVE Linux
 
 <br />
 
