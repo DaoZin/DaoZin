@@ -13,10 +13,15 @@
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unicode.svg" />I’m currently working [TracerIND][tracer]
 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-line-icons@2.5.5/src/svgs/graph.svg" />I'm on an endless effort, trying to learn everything I possibly can
+
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-line-icons@2.5.5/src/svgs/target.svg" />Goals: Contribute more to Open Source projects and collaborate with other content creators, developers and gamers
+
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/archlinux.svg" /> Linux F.T.W
+
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-line-icons@2.5.5/src/svgs/envelope-letter.svg" /> Email: kaneki@aogiridevs.tech
+
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-line-icons@2.5.5/src/svgs/energy.svg" />Fun Fact: I am a HUGE WEEB
+
 
 <br />
 
