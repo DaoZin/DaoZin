@@ -1,4 +1,4 @@
-<code><img align = "right" src="https://i.imgur.com/MYuP0Lp.png"></code>
+><img align = "right" src="https://i.imgur.com/MYuP0Lp.png">
 <br />
 
 ### Hello 👋🏽!  I'm Shlok, better known as [dEvK4n3Ki] 
