@@ -1,11 +1,10 @@
 <img align = "right" src="https://i.imgur.com/MYuP0Lp.png">
 
 
-# Hello 👋🏽!  I'm Shlok, better known as dEvK4n3Ki 
-## I'm a Developer, Pro Debugger, Editor and Gamer!
-
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-line-icons@2.5.5/src/svgs/target.svg" />Goals: Contribute more to Open Source projects and                            collaborate with other content creators, developers and gamers
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-line-icons@2.5.5/src/svgs/envolope-letter.svg" /> Email: shlokparida@gmail.com
+# Hello my name is Shlok A.K.A dEvK4n3Ki 
+## I'm a Backend Developer and Gamer!
+### Goals: Contribute more to Open Source projects and collaborate with other content creators, developers and gamers
+### Email: shlokparida@gmail.com
 <br />
 
 ## Languages, Frameworks, Databases, Operating Systems and Tools:
