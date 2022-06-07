@@ -1,10 +1,11 @@
 <img align = "right" src="https://i.imgur.com/MYuP0Lp.png">
 
 
-# Hello my name is Shlok A.K.A dEvK4n3Ki 
-## I'm a Backend Developer and Gamer!
-### Goals: Contribute more to Open Source projects and collaborate with other content creators, developers and gamers
-### Email: shlokparida@gmail.com
+# Ohayo! Namaywa Dao Zin : ダウ・ジン 
+## I am CTO of Gamers Gold
+## I love Server Side Developement which is conventionally called Backend Developement
+## Im a huge Gamer and verified Otaku :D
+### Email: daozin@gamers.gold
 ## Languages, Frameworks, Databases, Operating Systems and Tools:
 __________________
  <img src="https://img.shields.io/badge/GoLang-ffffFF.svg?&style=for-the-badge&logo=Go&logoColor=Blue&labelColor=black&color=teal" />  <img src="https://img.shields.io/badge/Python-18CF0E.svg?&style=for-the-badge&logo=python&logoColor=yellow&labelColor=black&color=Green " />  <img src="https://img.shields.io/badge/Javascript-FFFFFF.svg?&style=for-the-badge&logo=javascript&logoColor=f0f007&labelColor=black&color=f0f007" />  <img src="https://img.shields.io/badge/Rust-FFFFFFF.svg?&style=for-the-badge&logo=rust&logoColor=b7410e&labelColor=black&color=b7410e" />  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=007ACC&labelColor=black&color=007ACC"/>  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=black&color=00599C"/>
